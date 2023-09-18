@@ -1,4 +1,4 @@
-package BestTimetoBuyAndSellStockII;
+package Array.BestTimetoBuyAndSellStockII;
 
 public class BestTimetoBuyAndSellStockII {
     public int maxProfit(int[] prices) {

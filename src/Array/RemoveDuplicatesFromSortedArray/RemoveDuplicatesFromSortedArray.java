@@ -1,4 +1,4 @@
-package RemoveDuplicatesFromSortedArray;
+package Array.RemoveDuplicatesFromSortedArray;
 
 public class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] arr) {
