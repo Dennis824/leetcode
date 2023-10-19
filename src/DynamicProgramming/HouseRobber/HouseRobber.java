@@ -14,3 +14,8 @@ public class HouseRobber {
         return dp[dp.length-1];
     }
 }
+/*
+198
+TC O(n)
+SC O(n)
+ */
