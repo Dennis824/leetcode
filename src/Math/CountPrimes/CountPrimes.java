@@ -1,4 +1,4 @@
-package Math.CountPromes;
+package Math.CountPrimes;
 
 public class CountPrimes {
     public int countPrimes(int n) {
