@@ -1,6 +1,6 @@
 package Array.BestTimetoBuyAndSellStockII;
 
-public class BestTimetoBuyAndSellStockII {
+public class BestTimetoBuyAndSellStockII122 {
     public int maxProfit(int[] prices) {
         if (prices == null || prices.length <= 1) {
             return 0;
