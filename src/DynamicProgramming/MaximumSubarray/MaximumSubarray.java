@@ -1,6 +1,6 @@
 package DynamicProgramming.MaximumSubarray;
 
-class MaximumSubarray {
+class MaximumSubarray53 {
     public int maxSubArray(int[] nums) {
         int sum = nums[0];
         int max_sum = nums[0];
