@@ -1,4 +1,4 @@
-package Tree.SymmetricTree;
+package Tree.SymmetricTree101;
 
 public class SymmetricTree101 {
         public boolean isSymmetric(TreeNode root) {
