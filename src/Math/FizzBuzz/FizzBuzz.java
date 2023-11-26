@@ -1,6 +1,6 @@
 package Math.FizzBuzz;
 
-public class FizzBuzz {
+public class FizzBuzz412 {
         public List<String> fizzBuzz(int n) {
             List<String> list = new ArrayList<>();
             int i = 1;
