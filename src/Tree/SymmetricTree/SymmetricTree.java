@@ -1,6 +1,6 @@
-package Tree.SymmetricTree;
+package Tree.SymmetricTree101;
 
-public class SymmetricTree {
+public class SymmetricTree101 {
         public boolean isSymmetric(TreeNode root) {
             return root==null || isSymmetricHelp(root.left, root.right);
         }

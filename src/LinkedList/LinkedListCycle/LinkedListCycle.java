@@ -1,6 +1,6 @@
 package LinkedList.LinkedListCycle;
 
-public class LinkedListCycle {
+public class LinkedListCycle141 {
     public boolean hasCycle(ListNode head) {
         if(head == null) return false;
         ListNode slow = head;

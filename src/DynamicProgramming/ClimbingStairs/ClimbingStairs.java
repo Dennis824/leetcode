@@ -1,6 +1,6 @@
-package DynamicProgramming.ClimbingStairs;
+package DynamicProgramming.ClimbingStairs70;
 
-public class ClimbingStairs {
+public class ClimbingStairs70 {
     public int climbStairs(int n) {
         int[] cache = new int[n + 1];
         for (int i = 0; i <= n; i++) {
