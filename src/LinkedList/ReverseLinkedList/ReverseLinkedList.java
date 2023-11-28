@@ -1,6 +1,6 @@
 package LinkedList.ReverseLinkedList;
 
-public class ReverseLinkedList {
+public class ReverseLinkedList206 {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         while(head != null){
