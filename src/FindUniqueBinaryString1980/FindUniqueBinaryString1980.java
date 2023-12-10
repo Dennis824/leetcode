@@ -1,5 +1,8 @@
 package FindUniqueBinaryString1980;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class FindUniqueBinaryString1980 {
         int n;
         Set<String> numsSet = new HashSet();
