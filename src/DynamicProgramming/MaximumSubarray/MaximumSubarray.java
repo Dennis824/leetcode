@@ -13,6 +13,6 @@ class MaximumSubarray53 {
 }
 /*
 53
-TC On
-SC O1
+TC O(n)
+SC O(1)
 */
